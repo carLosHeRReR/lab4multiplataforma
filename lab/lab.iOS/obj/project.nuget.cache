@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1NsyoveWGWZy6TnNGbe2UT0e+8F7/QqOHKIbr+3IprxK7wEvuo+QAsYMIVTOALl1eZahApOW1YLJoz680msAOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elovf\\OneDrive\\Escritorio\\5to ciclo\\apps moviles plataforma\\semana4\\lab\\lab\\lab.iOS\\lab.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elovf\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\elovf\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\elovf\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
